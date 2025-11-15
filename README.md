@@ -41,7 +41,7 @@ To run the application locally, follow these steps:
    ```
    yarn start
    ```
-5. Open your web browser and navigate to http://localhost:3000 to view the application.
+5. Open your web browser and navigate to http://localhost:5173/to view the application.
 
 ## Usage
 
